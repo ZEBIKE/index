@@ -38,7 +38,15 @@
     "versionFirst": "4.6.7",
     "uniqCompNum": 59,
     "versionPublish": "4.6.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://zebike.github.io/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
