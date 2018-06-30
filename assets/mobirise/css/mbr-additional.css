@@ -8283,8 +8283,8 @@ body {
   }
 }
 .cid-qWsEIRpmHd {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qWsEIRpmHd .mbr-iconfont {
@@ -8375,6 +8375,11 @@ body {
   .cid-qWsEIRpmHd .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-qWtfKtYDqS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qWpq0yDRT5 {
   padding-top: 45px;
