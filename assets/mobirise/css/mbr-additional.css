@@ -1373,6 +1373,28 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qWtdmFlp8L {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qWtdmFlp8L .image-block {
+  margin: auto;
+}
+.cid-qWtdmFlp8L figcaption {
+  position: relative;
+}
+.cid-qWtdmFlp8L figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qWtdmFlp8L .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qWphs4E9ko {
   background-image: url("../../../assets/images/landing-page-3-1920x1080.jpg");
 }
